@@ -29,7 +29,7 @@
         "node": ">= 0.12.0"
     },
     "dependencies": {
-        "libxmljs2": "^0.18.0",
+        "libxmljs2": "^0.21.4",
         "lodash": "^3.10.1",
         "moment": "^2.17.1"
     },
